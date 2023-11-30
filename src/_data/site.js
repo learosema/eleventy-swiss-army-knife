@@ -1,5 +1,5 @@
 module.exports = {
-  name: "Lea's First Gamedev talk",
-  description: "Lea's First Gamedev talk",
+  name: "Eleventy Talk",
+  description: "Talk about Eleventy, the swiss arny knife build tool for the web",
   url: '',
 };
