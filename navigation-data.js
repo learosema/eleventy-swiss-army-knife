@@ -11,7 +11,8 @@ module.exports = [
   'eleventy-plugins',
   'own-plugins',
   'basic-bundling',
-  'advanced-css-tooling.md',
+  'advanced-tooling',
+  'css-js-tooling',
   'learning-resources',
   'thank-you',
 ];
