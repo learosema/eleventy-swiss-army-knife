@@ -1,0 +1,17 @@
+module.exports = [
+  '',
+  'about-me',
+  'agenda',
+  'eleventy-intro',
+  'eleventy-config',
+  'adding-content',
+  'content-metadata',
+  'create-layout',
+  'partials',
+  'eleventy-plugins',
+  'own-plugins',
+  'basic-bundling',
+  'advanced-css-tooling.md',
+  'learning-resources',
+  'thank-you',
+];

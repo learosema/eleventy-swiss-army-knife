@@ -1,0 +1,26 @@
+{
+  "name": "eleventy-slides",
+  "version": "1.0.0",
+  "description": "Lea's First Gamedev Talk",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "NODE_ENV=production eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "last 2 version",
+    "not dead"
+  ],
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "browserslist": "^4.21.10",
+    "dayjs": "^1.11.9",
+    "esbuild": "^0.19.3",
+    "html-minifier-terser": "^7.2.0",
+    "lightningcss": "^1.21.8",
+    "slugify": "^1.6.6"
+  }
+}
