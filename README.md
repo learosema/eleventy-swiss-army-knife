@@ -1,4 +1,4 @@
-# Lea‘s First Gamedev Talk
+# Lea‘s Eleventy Talk :)
 
 Hi, this is the repository for my talk. It uses eleventy as a static site generator plus a gulp toolchain.
 
